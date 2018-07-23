@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="1" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel1" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="73" green="f8" red="ff" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+            <TitledBorder title="Feedback Report">
+              <Font PropertyName="font" name="URW Bookman L" size="24" style="1"/>
+              <Color PropertyName="color" blue="f6" green="a" red="2e" type="rgb"/>
+            </TitledBorder>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="Q4" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="Q2" min="-2" max="-2" attributes="0"/>
+                              <Component id="Q3" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="Q5" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="Q6" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="Q7" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="Q8" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="Q1" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace pref="362" max="32767" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="A3" max="32767" attributes="0"/>
+                              <Component id="A2" max="32767" attributes="0"/>
+                              <Component id="A4" max="32767" attributes="0"/>
+                              <Component id="A5" max="32767" attributes="0"/>
+                              <Component id="A6" max="32767" attributes="0"/>
+                              <Component id="A7" max="32767" attributes="0"/>
+                              <Component id="A8" max="32767" attributes="0"/>
+                              <Component id="A1" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabel2" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel3" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel4" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="feed1" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="feed2" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="feed3" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Q1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="A1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Q2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="A2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Q3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="A3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Q4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="A4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Q5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="A5" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Q6" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="A6" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Q7" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="A7" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Q8" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="A8" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="feed1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="62" max="-2" attributes="0"/>
+                  <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="feed2" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace pref="49" max="32767" attributes="0"/>
+                  <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="feed3" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="A2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="________"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Q4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="4) Regularity in conduction of lecture"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Q8">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="8) Overall impact of the teacher"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="A6">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="________"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="A1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="________"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Q2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="2) Clarity of concepts and speed of delivery"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Q3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="3) Teacher&apos;s encoursgement for inviting questions and providing satisfactory answers"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Q6">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="6) Syllabus coverage"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="A4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="________"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="A7">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="________"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="A3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="________"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="A8">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="________"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Q7">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="7) Class control and discipline"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="A5">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="________"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Q5">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="5) Relating Theory with real life examples"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Q1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="1) Teaching Quality"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A)  Would you like the faculty member to teach you again in further semester?  Why?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="B)  Does the teacher solve questions from GATE/Online/ University Exams  ?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="C) Your suggestions and additional comments, if any."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="feed1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="feed2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="feed3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
